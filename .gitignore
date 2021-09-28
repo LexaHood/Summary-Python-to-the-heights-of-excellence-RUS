@@ -134,3 +134,6 @@ dmypy.json
 
 # excel
 *.xlsx
+
+#all test's files
+*test*
