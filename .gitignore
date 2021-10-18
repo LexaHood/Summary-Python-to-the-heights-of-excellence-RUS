@@ -136,4 +136,4 @@ dmypy.json
 *.xlsx
 
 #all test's files
-*test*
+test*
